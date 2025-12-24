@@ -1,0 +1,21 @@
+# System Resource Monitor (Linux + Python)
+
+A simple Linux-based system monitoring tool written in Python.
+It logs CPU, RAM, and Disk usage with timestamps.
+
+## Features
+- CPU usage monitoring
+- RAM usage monitoring
+- Disk usage monitoring
+- Automatic logging to file
+- Linux-compatible design
+
+## Technologies Used
+- Python 3
+- Linux
+- psutil library
+- Git & GitHub
+
+## Usage
+```bash
+python src/monitor.py
